@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mohabah
 - 👀 I’m interested in learning and excelling in code
-- 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on learning java and python
-- 📫 How to reach me
-- 😄 Pronouns: ...
+- 📫 How to reach me : Email: mohammedbahofficial@gmail.com
+- ig:mohastormm
 - ⚡ Fun fact: ...
 
 <!---
